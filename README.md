@@ -45,14 +45,10 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 
 THEN I am able to successfully create, update, and delete data in my database
 
-## Instructions
+## Installation 
+First, clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run `mysql -u root -p` and enter password from .env file. Then source the schema.sql. To seed the file run `npm run seed`. Lastly, connect to the server by running `npm start`. 
 
-- npm install express sequelize mysql2
+## Usage 
+This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-- npm install --save sequelize
-
-- npm install dotenv
-
-To run the application, use the following command:
-
-- node index.js
+Click link to see MySQL video walkthrough 
