@@ -51,5 +51,5 @@ First, clone the repository from GitHub. This application requires Node.js, Expr
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-file:///Users/mosby/Downloads/walkthroug.video%20(1).webm
+https://files.slack.com/files-pri/TJYQ8J5SL-F030MS064G2/walkthrough.gif
 
