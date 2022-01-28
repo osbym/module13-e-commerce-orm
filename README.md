@@ -51,4 +51,5 @@ First, clone the repository from GitHub. This application requires Node.js, Expr
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
-Click link to see MySQL video walkthrough 
+file:///Users/mosby/Downloads/walkthroug.video%20(1).webm
+
