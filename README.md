@@ -47,3 +47,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation 
 First, clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run `mysql -u root -p` and enter password from .env file. Then source the schema.sql. To seed the file run `npm run seed`. Lastly, connect to the server by running `npm start`. 
+
+## Usage 
+This application will allow users to view, add, edit, and delete categories, products, and tags.
+
+Click link to see MySQL video walkthrough 
